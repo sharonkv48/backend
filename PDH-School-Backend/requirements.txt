@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pinecone-client
+pymongo
+python-dotenv
+httpx
+langchain_community
+pinecone_text
+langchain
+langchain_google_genai
+pypdf
+pinecone
+python-jose
+passlib
